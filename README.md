@@ -36,5 +36,5 @@ AI assistant for personal financial management.
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/vitor-negrao
+LinkedIn: https://www.linkedin.com/in/vitor-negrao/
 Email: vitornegraorocha@gmail.com
