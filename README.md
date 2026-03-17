@@ -5,7 +5,7 @@
 Software Developer | Systems for Internet Student | AI & Automation Enthusiast
 
 📍 Brazil  
-💻 JavaScript | Python | Web Development  
+💻 Web Development  
 🚀 Focus: Automation, Data and Digital Systems
 
 ## About Me
@@ -15,12 +15,12 @@ I work with digital systems, automation and data analysis applied to marketing a
 
 ## Technologies
 
-Python
-JavaScript
-HTML
-CSS
-Bootstrap
-Git
+Python | 
+JavaScript |
+HTML | 
+CSS | 
+Bootstrap | 
+Git | 
 N8N
 
 ## Featured Projects
